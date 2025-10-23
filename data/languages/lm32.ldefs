@@ -7,6 +7,7 @@
     version="1.0"
     slafile="lm32_be.sla"
     processorspec="lm32.pspec"
+    manualindexfile="../manuals/lm32.idx"
     id="lm32:BE:32:default">
     <description>LatticeMico32 BE</description>
     <compiler name="default" spec="lm32.cspec" id="default"/>
@@ -18,6 +19,7 @@
     version="1.0"
     slafile="lm32_le.sla"
     processorspec="lm32.pspec"
+    manualindexfile="../manuals/lm32.idx"
     id="lm32:LE:32:default">
     <description>LatticeMico32 LE</description>
     <compiler name="default" spec="lm32.cspec" id="default"/>
